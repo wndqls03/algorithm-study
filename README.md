@@ -13,3 +13,4 @@ Repository for algorithm study and coding interview preparation using C#
 | 9 | Palindrome Number | Easy | Math | [Code](./LeetCode/Easy/9. Palindrome Number.cs) |
 | 13 | Roman to Integer | Easy | Hash Table, Math, String | [Code](./LeetCode/Easy/13. Roman to Integer.cs) |
 | 14 | Longest Common Prefix | Easy | Array, String, Trie | [Code](./LeetCode/Easy/14. Longest Common Prefix.cs) |
+| 21 | Merge Two Sorted List | Easy | Linked List, Recursion| [Code](./LeetCode/Easy/21. Merge Two Sorted.cs) |
