@@ -5,7 +5,7 @@ Repository for algorithm study and coding interview preparation using C#
 
 | Total Solved |
 |--------------|
-| 4 |
+| 5 |
 
 | # | Problem | Difficulty | Tags | Solution |
 |---|---------|------------|------|----------|
