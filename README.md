@@ -5,7 +5,7 @@ Repository for algorithm study and coding interview preparation using C#
 
 | Total Solved |
 |--------------|
-| 5 |
+| 6 |
 
 | # | Problem | Difficulty | Tags | Solution |
 |---|---------|------------|------|----------|
@@ -14,3 +14,4 @@ Repository for algorithm study and coding interview preparation using C#
 | 13 | Roman to Integer | Easy | Hash Table, Math, String | [Code](./LeetCode/Easy/13. Roman to Integer.cs) |
 | 14 | Longest Common Prefix | Easy | Array, String, Trie | [Code](./LeetCode/Easy/14. Longest Common Prefix.cs) |
 | 21 | Merge Two Sorted List | Easy | Linked List, Recursion| [Code](./LeetCode/Easy/21. Merge Two Sorted.cs) |
+| 20 | Valid Parentheses | Easy | String, Stacks| [Code](./LeetCode/Easy/20. Valid Parentheses.cs) |
