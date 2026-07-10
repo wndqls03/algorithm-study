@@ -15,3 +15,4 @@ Repository for algorithm study and coding interview preparation using C#
 | 14 | Longest Common Prefix | Easy | Array, String, Trie | [Code](./LeetCode/Easy/14. Longest Common Prefix.cs) |
 | 21 | Merge Two Sorted List | Easy | Linked List, Recursion| [Code](./LeetCode/Easy/21. Merge Two Sorted.cs) |
 | 20 | Valid Parentheses | Easy | String, Stacks| [Code](./LeetCode/Easy/20. Valid Parentheses.cs) |
+| 26 | Remove Duplicates from Sorted Array | Easy | array, two points| [Code](./LeetCode/Easy/20. Remove Duplicates from Sorted Array.cs) |
